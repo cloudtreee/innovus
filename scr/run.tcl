@@ -1,7 +1,7 @@
 
 
 
-
+source   $scr_dir/config.tcl
 ######################init_design
 source   $scr_dir/init.tcl
 ######################fp
